@@ -86,3 +86,7 @@ Notes about the resolution using Test-Driven Development
       - make it right (called refactor)
 
 ```
+
+  <link rel="stylesheet" type="text/css" href="./asciinema-player.css" />
+  <asciinema-player src="./elixir-live.cast"></asciinema-player>
+  <script src="./asciinema-player.js"></script>
