@@ -2,6 +2,9 @@
 
 This repo contains the code developed live during the: "CODE BEAM LITE ITALY 2019" <https://codesync.global/conferences/code-beam-lite-italy>
 
+![Andrea Francia presenting](francia-presenting.jpeg)
+
+
 # LIVE CODING IN ELIXIR
 During this presentation, Andrea will show how to solve the String Calculator Kata, using the test-driven development practice. The problem will be tackled incrementally, explaining each step, describing both the language features and the TDD pattern used.
 
